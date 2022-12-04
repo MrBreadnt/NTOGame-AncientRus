@@ -1,0 +1,2247 @@
+fileFormatVersion: 2
+guid: 9ae37e7b140f92142bba209c61fc0518
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae38c4ca46a55448417b263698fecb
+      internalID: 1331059374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70433878543bfc46a98340be62833aa
+      internalID: -2074369513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186f0d1fb4add943ad249d666eb6b65
+      internalID: 46450402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e18a8aaf6eeb1458914c2fbcd0072a
+      internalID: -338178413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4709f4f06bb64fa4e4944e9f91be1
+      internalID: -2025950579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972fc4cd58cf8947bb3f0201c1b92c1
+      internalID: 1423225695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e289ef6a140bc574ca26275e7d5fc838
+      internalID: 1849690892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b70d1f8267cc4f962ce91e787ec8c
+      internalID: 60964812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a30c0b1ed1b5ef4293cacf2d0d9f2ba
+      internalID: -1958434016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414202903e0e314fbd8f7fbde7d25f8
+      internalID: -1482775925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447eac82753ca64a9b354f15ab5dca1
+      internalID: -600228921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3738b0448d644394a203046930f4a
+      internalID: -1899322736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4704b6be2726947884132200ad09b4
+      internalID: -40263897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da569ec239efb374d8754751d7d09dcb
+      internalID: -543116818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9beaaa033b644998192a3ac72b6fe
+      internalID: -545063900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b841d7acb8fd34ca09992a93572c25
+      internalID: -546418810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d11ca6aa1f64ba4bae71b06de840285
+      internalID: 2066959204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf4664c6186cb4d932d7ee0c991386
+      internalID: 1251081374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31282b4acf47e2b4b9bd05682a62a20b
+      internalID: 510748326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d94d12370e0c41a4762afd3d14eab
+      internalID: 1493827536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ffa3ead87f9940a3b9d5a6ddf6125
+      internalID: 23989839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02924ec8cf1784ebdc9e58465388b8
+      internalID: -162730202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dacef86414424e409b6588959b803c1
+      internalID: 1006549758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e454c087678e4891957742d9e5ffa
+      internalID: 656676836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a464829f1eb8418adf595ffa46832
+      internalID: -920607650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c438d1bb8a1a7c4d8b120ead7275526
+      internalID: 1728729767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305be3a9c4135f42b03343367787db9
+      internalID: -495617154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca7d5a4e3d0e24982daf7602965cae
+      internalID: -1047808154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6e0719066145448f8dd605fc17c9a
+      internalID: 1736412484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d2954cded3bb4699bb2009eb76881
+      internalID: -319167027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590cc149254e54e4a975baa83eb8e199
+      internalID: -757789382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2e68b42116284d8190333e0548e16
+      internalID: 1321756267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f4b47bcd7f2045bd9b31653736ed4
+      internalID: -2085698326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb837a721115a6342b7c1176b24b5880
+      internalID: -1497295730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985aad36b9481344ea1123c06d6b14e9
+      internalID: -327833970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd5558b81b32b4984f1714578b4a1c
+      internalID: 272360926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6603abc308f7dd74097d0c4ebe480df7
+      internalID: 584278373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74a088f91ff794ca62d6d4bcce2324
+      internalID: -1462029490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62ffc80edafff4fa7a1abf7f420e50
+      internalID: -1619575919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4898e434ac40459c22a7d2bfa65e2
+      internalID: -1538819704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d60d544ba9dc488e96000b599a271
+      internalID: -1521157895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df74c24b9b9e8946bc83aff95bf9aea
+      internalID: -1918053827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f9a7c43a369874588cdf3570589128
+      internalID: 937889158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f276550f40963b94d95293a23a425f4a
+      internalID: -1928614195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d40bcfe3a781641b868914938f29e0
+      internalID: 285106151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8860ee24f6612184abe301782253b5e8
+      internalID: -1714230065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6979a3652d7d08941924bd959a41bf41
+      internalID: -1414122816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37329844e42e8ce428a9bac3c11bfce4
+      internalID: -2037993465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a68086662f8d24580bafad27727d55
+      internalID: 2145930560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb829e2d548d2f94fa969dbbb925406b
+      internalID: 131641801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7fe599c39de54e8dfcf4956529b92
+      internalID: 1105674115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076f8be27024b84d9fddd8024135c62
+      internalID: 162550326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98f0e74b2c8d64e9d43deb83c0420e
+      internalID: 29107317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d0093441436c439b9d2684b49c40c
+      internalID: 248669515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b569076d3cfd64180e865b68065f98
+      internalID: 2105890528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738aa696c8451f42b58ad2d7bd68966
+      internalID: -1940814113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f67d836279fd44e8591a8ce736aa90
+      internalID: 2114120661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49adb8bf76b3ff741b12538e19a24f7c
+      internalID: 780581295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17277abb84c5ee45b21a94013b14b10
+      internalID: -1459339582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78bcb8973f5c8b4db4069ec0fa49e21
+      internalID: -1507825584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e65fda503d3f34eb38e01f8b4e6c69
+      internalID: 969174296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0118ba66d8fd444b7ae531832b2ee4
+      internalID: 621831952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5f30df22e76246b1bc503dbfc7d1a
+      internalID: -290972059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dad2e177c2b604a8ba1720297add5e
+      internalID: -16025953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3151719b58fbc140a76078400b86c5e
+      internalID: 56082504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4d1a3821893145b72abc20c263590
+      internalID: -438244116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f137e3cc35cdf41bbfcf62e7af2302
+      internalID: -1901981754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8712899a0a9684e4aaaf65b47b88ae44
+      internalID: -1799682819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280724370e7074e41b304dfed19377e8
+      internalID: -698461638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6387674302fb947b09edbf5eb015bc
+      internalID: -1234285991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e5cfe84d153e04c993d4e4568223e5
+      internalID: 506716273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586b751df9fc8343aedc17e77fc5c45
+      internalID: 428038647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6bb5db2fd426a4c959055215ab8567
+      internalID: 809969079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e6874d6e61eb4382d095a3e40dd4f
+      internalID: 1968258356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe8a0612ca3024ebe1f2c84cfba34c
+      internalID: 1895278599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb01a2f115671143a05e057d9084de2
+      internalID: -1728721239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f9fd89c6cde54e89aafb96c304c56
+      internalID: -175072428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd7bc743aa9c8458e371b16b622ce6
+      internalID: 1917502728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6391afab2e7a4b87dc85e606c6a52
+      internalID: 1775321931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ae681800b7ca41a08beb976534a37
+      internalID: -1957371177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ce8dc15b06374dac8805351c33c4b
+      internalID: -568143504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952f90e8549027458d8d6f7b6b1e7dc
+      internalID: -758187109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb127977c1467428312b561a0bf141
+      internalID: 956319183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba03b128408a3448bf6e0dfdbebd2c
+      internalID: 916192494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5e4be34c12284c9682f39800fe39f
+      internalID: -1832847106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cc5e7edfb19a458f6dc44da67e5da
+      internalID: -1334352061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302fdf162a555fa4ab1e017e520b7613
+      internalID: -1715852902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113555d21326fc34997d78f2372b62e5
+      internalID: 1190070866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c75a4332536694f81ce42f76b84c62
+      internalID: 1101545916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c4102d15f21c47a0987349999a167
+      internalID: -1201664453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14b7a52d4757a40ae9f021c04d888b
+      internalID: -852705693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0723e947253d49bd3d2d4da129f95
+      internalID: -1508182981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b1af253382194cb85ea52b97f7628
+      internalID: 318038439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b47bbaa4ce109d4eb711dd7e1dc2dbc
+      internalID: 425538119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89c5bf1fcf8634694537194e7378b5
+      internalID: 438445783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 776-7761543_seasons-tiles-blue-white-oktoberfest-background_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7aab59e2db964e99467354987e580
+      internalID: 854672754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_80: -568143504
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_48: 2145930560
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_12: -40263897
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_65: -438244116
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_22: 1006549758
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_15: -546418810
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_7: 60964812
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_1: -2074369513
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_45: -1714230065
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_53: 248669515
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_75: -1728721239
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_38: -1619575919
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_77: 1917502728
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_93: 425538119
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_95: 854672754
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_49: 131641801
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_54: 2105890528
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_74: 1895278599
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_89: -1201664453
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_44: 285106151
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_9: -1482775925
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_27: -1047808154
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_52: 29107317
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_76: -175072428
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_25: 1728729767
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_64: 56082504
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_71: 428038647
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_82: 956319183
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_34: -327833970
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_33: -1497295730
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_84: -1832847106
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_35: 272360926
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_72: 809969079
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_87: 1190070866
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_46: -1414122816
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_51: 162550326
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_57: 780581295
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_63: -16025953
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_42: 937889158
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_21: -162730202
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_41: -1918053827
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_13: -543116818
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_28: 1736412484
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_67: -1799682819
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_86: -1715852902
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_0: 1331059374
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_5: 1423225695
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_31: 1321756267
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_83: 916192494
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_69: -1234285991
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_18: 510748326
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_78: 1775321931
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_92: 318038439
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_59: -1507825584
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_94: 438445783
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_20: 23989839
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_58: -1459339582
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_81: -758187109
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_47: -2037993465
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_61: 621831952
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_17: 1251081374
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_37: -1462029490
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_32: -2085698326
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_11: -1899322736
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_68: -698461638
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_88: 1101545916
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_39: -1538819704
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_43: -1928614195
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_85: -1334352061
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_10: -600228921
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_26: -495617154
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_90: -852705693
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_6: 1849690892
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_56: 2114120661
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_62: -290972059
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_73: 1968258356
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_23: 656676836
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_30: -757789382
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_4: -2025950579
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_55: -1940814113
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_2: 46450402
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_40: -1521157895
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_91: -1508182981
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_36: 584278373
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_60: 969174296
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_79: -1957371177
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_29: -319167027
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_14: -545063900
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_50: 1105674115
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_70: 506716273
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_66: -1901981754
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_19: 1493827536
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_8: -1958434016
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_3: -338178413
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_16: 2066959204
+      776-7761543_seasons-tiles-blue-white-oktoberfest-background_24: -920607650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
