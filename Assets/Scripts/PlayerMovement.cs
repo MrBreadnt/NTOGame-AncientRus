@@ -36,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
     void Attack(bool attack)
     {
         attacking = attack;

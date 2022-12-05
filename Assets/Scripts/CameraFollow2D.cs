@@ -21,6 +21,8 @@ public class CameraFollow2D : MonoBehaviour
 		lastX = Mathf.RoundToInt(player.position.x);
 	}
 
+
+
 	void Update()
 	{
 		if (player)
